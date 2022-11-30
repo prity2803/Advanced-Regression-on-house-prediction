@@ -1,7 +1,5 @@
 # Advanced-Regression-using-Lasso-and-Ridge
-Car price prediction using Lasso and Ridge
-A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The data is provided in the CSV file below.
-
+This is a house price prediction where model is built to check predict the prices of house based on the different features.
  
 
 The company is looking at prospective properties to buy to enter the market.
